@@ -51,6 +51,9 @@ let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1
 let g:miniBufExplMapCTabSwitchBufs = 1
 let g:miniBufExplModSelTarget = 1
+"" Tab doesn't work, so let's map it to l and h
+map <C-l> <C-TAB> 
+map <C-h> <C-S-TAB> 
  
 map <ESC><ESC> :w<CR>
 
