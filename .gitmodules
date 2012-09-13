@@ -1,21 +1,18 @@
 [submodule "bundle/pep8"]
 	path = bundle/pep8
-	url = https://github.com/vim-scripts/pep8.git
+	url = http://github.com/vim-scripts/pep8.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
-	url = https://github.com/wincent/Command-T.git
+	url = http://github.com/wincent/Command-T.git
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
-	url = https://github.com/sontek/minibufexpl.vim.git
+	url = http://github.com/sontek/minibufexpl.vim.git
 [submodule "bundle/pydoc"]
 	path = bundle/pydoc
-	url = https://github.com/fs111/pydoc.vim.git
+	url = http://github.com/fs111/pydoc.vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = https://github.com/vim-scripts/The-NERD-tree.git
+	url = http://github.com/vim-scripts/The-NERD-tree.git
 [submodule "bundle/ropevim"]
 	path = bundle/ropevim
-	url = https://github.com/sontek/rope-vim.git
-[submodule "pyflakes-pathogen"]
-	path = pyflakes-pathogen
-	url = https://github.com/mitechie/pyflakes-pathogen.git
+	url = http://github.com/sontek/rope-vim.git
