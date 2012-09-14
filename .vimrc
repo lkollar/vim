@@ -24,7 +24,7 @@ set smarttab
 
 set t_Co=256
 colorscheme Tomorrow-Night-Bright
-set guifont=Menlo\ Regular:h12
+set guifont=Menlo\ Regular:h15
 
 set wildmode=full
 set laststatus=2
